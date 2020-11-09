@@ -5,6 +5,8 @@
 
 ### Redhat Enterprise Linux8-https://developers.redhat.com/rhel8
 
+### Configure yum-https://www.youtube.com/watch?v=DPyohwkqvHo
+
 ### Download Hadoop- https://drive.google.com/drive/folders/1zXxx3dlVxU9OilS_GMHjEDNaC7uMsrW
 #### Run This command- rpm -ivh hadoop-1.2.1-1.x86_64.rpm --force
 
